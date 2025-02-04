@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class PermissionsDecoder {
+public class Permission {
     private static final Map<String, Integer> Permissions = Map.of(
         "POST", 1,
         "COMMENT", 2,
